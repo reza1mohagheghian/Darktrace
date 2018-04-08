@@ -1,0 +1,15 @@
+#[Settings]
+#Tue Jul 04 12:44:19 AEST 2017
+sMaxLogResponse=120
+sActiveMQPort=61616
+sHostAddr=localhost
+sVansahConnectionType=1
+sRegScreenShotsDirectory=
+sVansahInstance=
+sUpdateVansah=0
+sPortNo=0
+sDevMode=1
+sAgentName=
+sVQToken=
+sActiveMQQueue=threats
+sActiveMQHost=127.0.0.1
